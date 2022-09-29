@@ -1,0 +1,23 @@
+{
+  "name": "first-node-project",
+  "version": "1.1.0",
+  "description": "Este es nuestro primer proyecto con node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "kodemia": "echo 'hola, desde mi script con Node'",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "kodemia",
+    "npm",
+    "javascript"
+  ],
+  "author": "@DevBenjaAC",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
